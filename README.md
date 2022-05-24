@@ -81,6 +81,8 @@ Output: 1
 
 而第二個作法比較簡化
 
+![](https://i.imgur.com/tnogT2C.png)
+
 ## 程式碼
 ```go
 package sol
